@@ -14,11 +14,11 @@ x install godu
 
 ## Code insight
 
-Total: **1,312** lines of code across **27** files in the top 5 languages.
+Total: **1,334** lines of code across **27** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,298 | 38 | 148 | 22 |
+| Go | 1,320 | 40 | 150 | 22 |
 | Sh | 14 | 1 | 3 | 1 |
 | Markdown | 0 | 98 | 41 | 4 |
 
@@ -40,7 +40,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.5.2` (2024-05-19)
-- **Last commit**: 2024-05-26
+- **Last commit**: 2026-10-29
 - **Assets in release**: 12
 
 ## Popularity
@@ -49,18 +49,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 58 · **Open PRs**: 3 · **Closed issues**: 21 · **Open issues**: 12 · **Commits**: 193
+- **Releases**: 8 · **Merged PRs**: 60 · **Open PRs**: 8 · **Closed issues**: 21 · **Open issues**: 12 · **Commits**: 195
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-03 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last720d | 2024-11-08 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 30d | 2026-09-30 | 0 | 2 | 5 | 0 | 0 | 2 |
+| last60d | 2026-08-31 | 0 | 2 | 5 | 0 | 0 | 2 |
+| 90d | 2026-08-01 | 0 | 2 | 5 | 0 | 0 | 2 |
+| last180d | 2026-05-03 | 0 | 2 | 5 | 0 | 0 | 2 |
+| 360d | 2025-11-04 | 0 | 2 | 6 | 0 | 0 | 2 |
+| last720d | 2024-11-09 | 0 | 2 | 6 | 0 | 0 | 2 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for godu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:57:25Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:56:01Z._
