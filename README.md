@@ -45,22 +45,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 589 · **Forks**: 31 · **Open issues**: 33 · **Contributors**: 5
+- **Stars**: 590 · **Forks**: 32 · **Open issues**: 33 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 63 · **Open PRs**: 7 · **Closed issues**: 21 · **Open issues**: 12 · **Commits**: 203
+- **Releases**: 8 · **Merged PRs**: 63 · **Open PRs**: 9 · **Closed issues**: 21 · **Open issues**: 12 · **Commits**: 203
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 5 | 4 | 0 | 0 | 10 |
-| last60d | 2026-09-05 | 0 | 5 | 4 | 0 | 0 | 10 |
-| 90d | 2026-08-06 | 0 | 5 | 4 | 0 | 0 | 10 |
-| last180d | 2026-05-08 | 0 | 5 | 4 | 0 | 0 | 10 |
-| 360d | 2025-11-09 | 0 | 5 | 5 | 0 | 0 | 10 |
-| last720d | 2024-11-14 | 0 | 5 | 5 | 0 | 0 | 10 |
+| 30d | 2026-10-06 | 0 | 5 | 6 | 0 | 0 | 10 |
+| last60d | 2026-09-06 | 0 | 5 | 6 | 0 | 0 | 10 |
+| 90d | 2026-08-07 | 0 | 5 | 6 | 0 | 0 | 10 |
+| last180d | 2026-05-09 | 0 | 5 | 6 | 0 | 0 | 10 |
+| 360d | 2025-11-10 | 0 | 5 | 7 | 0 | 0 | 10 |
+| last720d | 2024-11-15 | 0 | 5 | 7 | 0 | 0 | 10 |
 
 ## Release assets
 
@@ -81,10 +81,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/godu). **7** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/godu). **8** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
+| Homebrew | `1.5.2` | ✅ latest |
 | Nix unstable | `1.5.2` | ✅ latest |
 
 ## Improve this data
@@ -96,4 +97,4 @@ Install metadata for godu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:38:16Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:59:30Z._
