@@ -1,3 +1,14 @@
+- repo: nix_unstable
+  srcname: godu
+  visiblename: godu
+  version: 1.5.2
+  origversion: null
+  status: newest
+  summary: Utility helping to discover large files/folders
+  maintainers:
+    - rople380@github
+  licenses:
+    - MIT
 - repo: aur
   srcname: godu-bin
   binname: godu-bin
@@ -17,6 +28,13 @@
   origversion: null
   status: newest
   summary: Simple golang utility helping to discover large files/folders.
+- repo: homebrew
+  srcname: godu
+  visiblename: godu
+  version: 1.5.2
+  origversion: null
+  status: newest
+  summary: Simple golang utility helping to discover large files/folders
 - repo: nix_stable_24_05
   srcname: godu
   visiblename: godu
@@ -62,17 +80,6 @@
   licenses:
     - MIT
 - repo: nix_stable_26_05
-  srcname: godu
-  visiblename: godu
-  version: 1.5.2
-  origversion: null
-  status: newest
-  summary: Utility helping to discover large files/folders
-  maintainers:
-    - rople380@github
-  licenses:
-    - MIT
-- repo: nix_unstable
   srcname: godu
   visiblename: godu
   version: 1.5.2
