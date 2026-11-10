@@ -14,13 +14,14 @@ x install godu
 
 ## Code insight
 
-Total: **1,419** lines of code across **27** files in the top 5 languages.
+Total: **1,858** lines of code across **30** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,405 | 57 | 152 | 22 |
-| Sh | 14 | 1 | 3 | 1 |
-| Markdown | 0 | 98 | 41 | 4 |
+| Go | 1,722 | 147 | 185 | 23 |
+| Sh | 107 | 31 | 17 | 2 |
+| Makefile | 29 | 0 | 8 | 1 |
+| Markdown | 0 | 100 | 43 | 4 |
 
 ## OpenSSF Scorecard
 
@@ -40,27 +41,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.5.2` (2024-05-19)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-09
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 593 · **Forks**: 32 · **Open issues**: 33 · **Contributors**: 5
+- **Stars**: 595 · **Forks**: 32 · **Open issues**: 33 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 63 · **Open PRs**: 9 · **Closed issues**: 21 · **Open issues**: 12 · **Commits**: 203
+- **Releases**: 8 · **Merged PRs**: 68 · **Open PRs**: 7 · **Closed issues**: 21 · **Open issues**: 12 · **Commits**: 212
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 5 | 6 | 0 | 0 | 10 |
-| last60d | 2026-09-09 | 0 | 5 | 6 | 0 | 0 | 10 |
-| 90d | 2026-08-10 | 0 | 5 | 6 | 0 | 0 | 10 |
-| last180d | 2026-05-12 | 0 | 5 | 6 | 0 | 0 | 10 |
-| 360d | 2025-11-13 | 0 | 5 | 7 | 0 | 0 | 10 |
-| last720d | 2024-11-18 | 0 | 5 | 7 | 0 | 0 | 10 |
+| 30d | 2026-10-11 | 0 | 10 | 4 | 0 | 0 | 19 |
+| last60d | 2026-09-11 | 0 | 10 | 4 | 0 | 0 | 19 |
+| 90d | 2026-08-12 | 0 | 10 | 4 | 0 | 0 | 19 |
+| last180d | 2026-05-14 | 0 | 10 | 4 | 0 | 0 | 19 |
+| 360d | 2025-11-15 | 0 | 10 | 5 | 0 | 0 | 19 |
+| last720d | 2024-11-20 | 0 | 10 | 5 | 0 | 0 | 19 |
 
 ## Release assets
 
@@ -97,4 +98,4 @@ Install metadata for godu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:15:07Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:44:08Z._
